@@ -172,7 +172,7 @@
     }
 
     .single_home h2 {
-        font-size: 45px;
+        font-size: 35px;
     }
 
     #about,
@@ -217,6 +217,12 @@
 
     .section_title {
         padding-left: 0;
+    }
+    .single_home {
+        padding-left: 25px;
+    }
+    .single_home a {
+        background: #f1f1f1;
     }
 
     /* about */
